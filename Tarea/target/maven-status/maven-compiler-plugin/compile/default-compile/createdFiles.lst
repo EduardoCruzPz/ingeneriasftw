@@ -1,0 +1,6 @@
+fes\dispositivos\Smartphone.class
+fes\dispositivos\Computadora.class
+fes\dispositivos\Tablet.class
+fes\dispositivos\TestFactoryDispositivos.class
+fes\factory\Dispositivos.class
+fes\factory\DipostivosFactory.class
